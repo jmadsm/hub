@@ -1085,12 +1085,12 @@
     postcss "7.0.32"
     purgecss "^2.3.0"
 
-"@getcandy/hub-categories@0.11.5":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@getcandy/hub-categories/-/hub-categories-0.11.5.tgz#095dabde7a659b80cfd3be60b84e8f2a2a94d517"
-  integrity sha512-3aL2kQF6LiNa3zqj5YQgUMHHljI8FcDIqdTy9OcylNCcHXUkkqr1eS12n+GU5BCHzBZUfwigy8DiGtDjEhXhIQ==
+"@getcandy/hub-categories@0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@getcandy/hub-categories/-/hub-categories-0.11.6.tgz#ea631ca9d7752d5c2870009aa36d4b7e3a7d62a1"
+  integrity sha512-PF+857UBm6RDbbaldgwvmpckSX26RUs4D2mS0fRgEAslwxKK5FhV6QXBZOf/j15CviVSi56UndWzKvExQL2yLg==
   dependencies:
-    "@getcandy/hub-core" "^0.11.5"
+    "@getcandy/hub-core" "^0.11.6"
     css-loader "^3.2.0"
     moment "^2.24.0"
     sortablejs "^1.7.0"
@@ -1101,12 +1101,12 @@
     vue-template-loader "^1.0.0"
     webpack "^4.41.2"
 
-"@getcandy/hub-collections@0.11.5":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@getcandy/hub-collections/-/hub-collections-0.11.5.tgz#d163cc53a72cf6db0dc02f680aed7513a4ab8831"
-  integrity sha512-ovDPIowe4EcrVaAr+XV5S1UJKGUQQS/Ww15/SP3VoOFr/MwUs+8AVbVrcfpWzvrqGEQFATUFBB4dm7D+Dr9Wtw==
+"@getcandy/hub-collections@0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@getcandy/hub-collections/-/hub-collections-0.11.6.tgz#22c05c2739a0d6597d2244b381e0c5c8b129beed"
+  integrity sha512-Ga+mdRfsGnBrWx+LA3KKI9HTpUPG+V807/4kFNlO9zP8T/r9LjQVGwFIqZxXj3cHufdPA2P5583K/XvHveGYfw==
   dependencies:
-    "@getcandy/hub-core" "^0.11.5"
+    "@getcandy/hub-core" "^0.11.6"
     css-loader "^3.2.0"
     moment "^2.24.0"
     vue "^2.6.10"
@@ -1116,12 +1116,12 @@
     vue-template-loader "^1.0.0"
     webpack "^4.41.2"
 
-"@getcandy/hub-core@0.11.5", "@getcandy/hub-core@^0.11.5":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@getcandy/hub-core/-/hub-core-0.11.5.tgz#463f206a8d75b6ef684be0c770bd2780ba9e6aba"
-  integrity sha512-cUB/W/IAkUajMERYK1QVODrq9er1j/vQxDfcOni4J++iBddp+Mkg7WAht2E3FaMbFzQfRmrlG7I1DTRt17Bnow==
+"@getcandy/hub-core@0.11.6", "@getcandy/hub-core@^0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@getcandy/hub-core/-/hub-core-0.11.6.tgz#e1ceaf9af8b32f4a188074092b7e619dac47e232"
+  integrity sha512-H2XlfzCDOlxLxEAmDnS3nS6NFzHNf1YbsuVJvwyc4Qj78wf5ukTQP5ij3dB7MBb6tYjcczW/dF952Mng+qE2dw==
   dependencies:
-    "@getcandy/hub-ui" "^0.11.5"
+    "@getcandy/hub-ui" "^0.11.6"
     "@getcandy/node-client" "^0.10.2"
     fuse.js "^3.4.3"
     json2yaml "^1.1.0"
@@ -1137,15 +1137,15 @@
     vue-template-loader "^1.0.0"
     webpack "^4.41.2"
 
-"@getcandy/hub-customers@0.11.5":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@getcandy/hub-customers/-/hub-customers-0.11.5.tgz#350fdd5fd8398ec6177e65c96c2179db6db69b60"
-  integrity sha512-+aaWd4cyegEe8faPFZiGIF8SCWt4XyJQ9bE6IgaxQZeWrNOPwRbPd1gzROcKS5FKyXPnk4swN5wBijZNJp8FmA==
+"@getcandy/hub-customers@0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@getcandy/hub-customers/-/hub-customers-0.11.6.tgz#91bb9bed46f2100cf77216a127981288fd74b9f3"
+  integrity sha512-ag99YLmnm+HHcsXOEY99LSc9wTR9jGU0vy2eSxVx+fNrNlj5qe3DCSllJqcxPVqCkY2Gko2+jwYZ4FT8EY2GWw==
 
-"@getcandy/hub-orders@0.11.5":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@getcandy/hub-orders/-/hub-orders-0.11.5.tgz#2798b548e8daa4970c4be2058668eb39a4359509"
-  integrity sha512-7TqZ08g/juj5pLfX1dGbwep8WQK5yOjq+wR8xq7ebhhkWtXpmMuUoHirEEmUh9eliMRL0POe2uYvAL8dm4C/7Q==
+"@getcandy/hub-orders@0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@getcandy/hub-orders/-/hub-orders-0.11.6.tgz#f6eb8b4cdf37ecf3d7ae9e2e27ad1de695109907"
+  integrity sha512-n3b7p86msk1sOt34bpPxnxL9lIOkncxtbOPXK4Hpov3hc5oMbTD+R6EU0k+92vASlnLkfYsl7LkKHNc9zgDaXQ==
   dependencies:
     chart.js "^2.9.3"
     css-loader "^3.2.0"
@@ -1159,10 +1159,10 @@
     vue-template-loader "^1.0.0"
     webpack "^4.41.2"
 
-"@getcandy/hub-products@0.11.5":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@getcandy/hub-products/-/hub-products-0.11.5.tgz#4487194c5256d515fd812f111deb686156933ce0"
-  integrity sha512-BEyrc4rMwAMHpl+D2mq9i+qf++ODTSrk+Dd7W/ieMq0HeyiOTnSCUXuRM+Kh6/Npo9XBa6fiYMCZeXoPSUPHKw==
+"@getcandy/hub-products@0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@getcandy/hub-products/-/hub-products-0.11.6.tgz#d7df03081ffd2c0ffefbfcd7a906ea254ca59d5d"
+  integrity sha512-zQ00i6TWM56YOzoG031pIPCEDbZZucdzvyVT/pmdHJbrz3K0ZCcgokPpDjwxvP/ByCEKmpoiRl2SPCpUVLXvqA==
   dependencies:
     css-loader "^3.2.0"
     moment "^2.24.0"
@@ -1174,10 +1174,10 @@
     vue-template-loader "^1.0.0"
     webpack "^4.41.2"
 
-"@getcandy/hub-reports@0.11.5":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@getcandy/hub-reports/-/hub-reports-0.11.5.tgz#9a8fd00439084909cd88962422e109175455be2f"
-  integrity sha512-DMIO+qKOG4QXWzbPNgZmUhBKRYbqmTmTf+vX5y432yA8Y87C+GLh+AyusSlgUBVl3f2uzc1gFuUWslN2CEYTvA==
+"@getcandy/hub-reports@0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@getcandy/hub-reports/-/hub-reports-0.11.6.tgz#a82f87a8c260424f3e7eb6125043c84c7d31e51a"
+  integrity sha512-Woy20EhNGSjD3CoVC3/RbjGCXk3HK//0DT4d+kxDER6YAp0ZdzyWS/hwt6EJayUKJU9eKOIm6pOpCyOEeQPTEw==
   dependencies:
     css-loader "^3.2.0"
     moment "^2.24.0"
@@ -1188,15 +1188,15 @@
     vue-template-loader "^1.0.0"
     webpack "^4.41.2"
 
-"@getcandy/hub-shipping@0.11.5":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@getcandy/hub-shipping/-/hub-shipping-0.11.5.tgz#8c89debb2e2a0434410c4c23d072d61fb6bcd3d6"
-  integrity sha512-erINLu7TZXobo1x3bUOdbz9Gk+5bNH61zJM1MG8S2ih+PoHmpLmgp8Sot1kvwGFFR761mQ/bfeEfMF5dLDqXNg==
+"@getcandy/hub-shipping@0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@getcandy/hub-shipping/-/hub-shipping-0.11.6.tgz#45ab12b86efc7006863b643ccb6a93b870ae5058"
+  integrity sha512-xWmb2QmVqBrD3Uql+sw4beNl+19EcBo/MP8T+cXyWsV5wtghEoht3mjYXZ1Nxs7K84qbZSHp1zHoXYkwHVIxog==
 
-"@getcandy/hub-ui@^0.11.5":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@getcandy/hub-ui/-/hub-ui-0.11.5.tgz#b75e50d3d9604aabcceefa0455aa610332a1fa0a"
-  integrity sha512-9JzjvdjRkryyGVhIML9CDhLlS+UD1pjhPpDl0Vn2/V4mqOqgwRSCxO5Cfq7OR9/6cjHhPPtDeI2Usepea9qZCQ==
+"@getcandy/hub-ui@^0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@getcandy/hub-ui/-/hub-ui-0.11.6.tgz#7f6ccf6b6b15c4305384a0ab2aa7e76d4486a370"
+  integrity sha512-Y/u55LFOIwwVm32OPsYMH5+y/7y7hl5l9PVqNewvu0dwGsf4PCVv+40M/6iNHTMkNMtHt7OMSa4enKboftkHlQ==
   dependencies:
     "@babel/core" "^7.11.0"
     "@storybook/addon-docs" "^5.3.19"
