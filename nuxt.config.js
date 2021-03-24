@@ -104,7 +104,8 @@ export default {
         provider: 'laravel/sanctum',
         url: process.env.SANCTUM_URL,
         endpoints: {
-          user: { url: '/v1/users/current?include=customer.customerGroups,roles.permissions', method: 'get', propertyName: 'data' }
+          user: { url: '/v1/users/current?include=customer.customerGroups,roles.permissions', method: 'get', propertyName: 'data' },
+          csrf: { url: '/v1/sanctum/csrf-cookie' }
         }
       }
     }
