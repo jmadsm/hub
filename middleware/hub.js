@@ -20,6 +20,8 @@ export default async function ({ app, store }) {
       const response = await app.$gc.root.get()
       const data = response.data
 
+      console.log('response data:', response.data)
+
       store.commit('setApiVersion', data.version)
       store.commit('setChannel', data.channel.handle)
 
